@@ -1225,7 +1225,7 @@ li a.active {
 
     .container__about {
         margin-top: 100vw;
-        margin-left: 200vw;
+        margin-left: auto;
     }
 
     .card__about {
